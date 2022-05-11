@@ -14,4 +14,4 @@ Colab Example [notebook](https://github.com/Ratatos/technical-discussion/blob/ma
 ### Image
 
 Can me included via Issues
-
+[image] https://github.com/Ratatos/technical-discussion/issues/1#issue-1232468946
